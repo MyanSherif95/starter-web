@@ -2,6 +2,6 @@
 
 ## Introduction
 
-##purpose
+## purpose
 
-##How To contribute
+## How To contribute
